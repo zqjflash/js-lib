@@ -1,4 +1,4 @@
-## JS库
+## JavaScript 工具之常用JS库
 
 ### [accounting.js](http://openexchangerates.github.io/accounting.js/)
 
